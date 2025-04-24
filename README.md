@@ -1,2 +1,2 @@
 # lista_compras
-Repositório para atividade sobre o Gita
+Repositório para atividade sobre o Git
