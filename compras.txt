@@ -5,3 +5,6 @@ aveia
 neston
 leite
 farinha lactea
+tomate
+alface
+pão
