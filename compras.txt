@@ -1,2 +1,7 @@
 arroz
 feijão
+banana
+aveia
+neston
+leite
+farinha lactea
