@@ -9,3 +9,5 @@ tomate
 alface
 pão
 nescau
+
+ovo
